@@ -17,7 +17,7 @@ export const site = {
   whatsappMessage:
     "Olá, Oliver! Conheci a WOA TEC pelo site e gostaria de saber mais sobre as soluções digitais.",
 
-  instagramUrl: null as string | null,
+  instagramUrl: "https://www.instagram.com/woatec/" as string | null,
 };
 
 // Retorna somente perfis oficiais válidos do Instagram.
